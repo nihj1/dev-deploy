@@ -1,0 +1,15 @@
+{
+  "env": {
+    "dest": "aaa",
+    "python": "py36"
+  },
+  "source": {
+    "dest": "",
+    "addr": {
+      "priority_h": [],
+      "priority_m": [],
+      "priority_l": []
+    }
+  },
+  "requires": []
+}
